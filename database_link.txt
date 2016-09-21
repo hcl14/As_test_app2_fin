@@ -1,5 +1,0 @@
-Host: sql7.freesqldatabase.com
-Database name: sql7136722
-Database user: sql7136722
-Database password: VBCmfaScje
-Port number: 3306 
